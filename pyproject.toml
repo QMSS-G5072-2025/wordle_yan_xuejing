@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "wordle_xy2723"
-version = "0.1.1"
+version = "1.0.0"
 description = "A package for the game Wordle."
 authors = ["Xuejing Yan"]
 license = "MIT"
