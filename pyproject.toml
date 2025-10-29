@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "wordle_xy2723"
-version = "0.1.0"
+version = "0.1.1"
 description = "A package for the game Wordle."
 authors = ["Xuejing Yan"]
 license = "MIT"
@@ -26,5 +26,6 @@ dev = [
     "myst-nb (>=1.3.0,<2.0.0)",
     "sphinx-autoapi (>=3.6.1,<4.0.0)",
     "sphinx-rtd-theme (>=3.0.2,<4.0.0)",
-    "pytest (>=8.4.2,<9.0.0)"
+    "pytest (>=8.4.2,<9.0.0)",
+    "pytest-cov (>=7.0.0,<8.0.0)"
 ]
